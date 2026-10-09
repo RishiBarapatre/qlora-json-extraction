@@ -152,7 +152,7 @@ Prompt format uses Qwen3's native chat template with `enable_thinking=False` to 
 
 1. **Clone this repo:**
    ```bash
-   git clone https://github.com/your-username/qlora-json-extraction
+   git clone https://github.com/RishiBarapatre/qlora-json-extraction
    ```
 
 2. **Upload `qlora_json_extraction.ipynb` to Colab**, set runtime to **T4 GPU**.
